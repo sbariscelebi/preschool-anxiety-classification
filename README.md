@@ -67,7 +67,7 @@ Outputs are saved to the `outputs/` directory.
 
 If you use this code, please cite:
 
-> Carpenter, G. L., et al. (2016). Preschool anxiety disorders screening with the PAPA instrument. *PLOS ONE*, 11(11), e0165524. https://doi.org/10.1371/journal.pone.0165524
+> Gradient Boosting and SHAP-Based Classification of Preschool Anxiety Disorders from Raw PAPA Interview Data 
 
 ## License
 
